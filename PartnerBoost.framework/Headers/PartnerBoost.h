@@ -2,7 +2,7 @@
 //  PartnerBoost.h
 //  PartnerBoost
 //
-//  Created by loo on 2023/7/6.
+//  Created by Jeff on 2023/7/6.
 //
 
 #import <Foundation/Foundation.h>
@@ -15,4 +15,5 @@ FOUNDATION_EXPORT const unsigned char PartnerBoostVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <PartnerBoost/PublicHeader.h>
 
-#import <PartnerBoost/PBManager.h>
+#import <PartnerBoost/PBLinkService.h>
+#import <PartnerBoost/PBLinkResponse.h>

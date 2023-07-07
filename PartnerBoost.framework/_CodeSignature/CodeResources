@@ -4,13 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/PBManager.h</key>
+		<key>Headers/PBLinkResponse.h</key>
 		<data>
-		rlvXRs6lq1n62GkAT8RYTTXLOxQ=
+		K1W5qfr1GkXDmL6ryZ+EuL5obTQ=
+		</data>
+		<key>Headers/PBLinkService.h</key>
+		<data>
+		XgdWGJvVINiYZxsy22hjshOj+2o=
 		</data>
 		<key>Headers/PartnerBoost.h</key>
 		<data>
-		vXuW1acu31qATGSxbDRqJCGMHss=
+		wHwBN6ugdlfsGuPC8EjbK75JRcI=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -23,26 +27,37 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/PBManager.h</key>
+		<key>Headers/PBLinkResponse.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rlvXRs6lq1n62GkAT8RYTTXLOxQ=
+			K1W5qfr1GkXDmL6ryZ+EuL5obTQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			aPqELU5h88DdDdlOjMNH9f7bngd2NgXmHsuhQNmBOho=
+			pli8m5AkbTS4/b8FLG8zj7vx1HNN/43rk40HOegxbwA=
+			</data>
+		</dict>
+		<key>Headers/PBLinkService.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XgdWGJvVINiYZxsy22hjshOj+2o=
+			</data>
+			<key>hash2</key>
+			<data>
+			eLVB5ve9O60VnBeyaAykQH3xLOc0V9SAI9G5baN/T9o=
 			</data>
 		</dict>
 		<key>Headers/PartnerBoost.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vXuW1acu31qATGSxbDRqJCGMHss=
+			wHwBN6ugdlfsGuPC8EjbK75JRcI=
 			</data>
 			<key>hash2</key>
 			<data>
-			QkC47xehDt2BNbaLisswIG/yK+TX5o0TFX218dFQaxs=
+			eq/jxeOTPnULWkMR21hHwm/JUY1LhGIjBeDeLUSh9kc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
