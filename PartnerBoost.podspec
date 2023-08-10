@@ -8,7 +8,9 @@ Pod::Spec.new do |spec|
     spec.platform     = :ios
     spec.source       = { :git => "https://github.com/partnerboost-tech-team/PBLink.git", :tag => "v#{spec.version}" }
     # spec.requires_arc = true
+    spec.resources     = "FPSupport.bundle"
     spec.vendored_frameworks = "PartnerBoost.framework"
+    spec.vendored_frameworks = "ydun.framework"
     spec.dependency     'JCore'
     spec.dependency     'JMLink'
 end

@@ -17,3 +17,4 @@ FOUNDATION_EXPORT const unsigned char PartnerBoostVersionString[];
 
 #import <PartnerBoost/PBLinkService.h>
 #import <PartnerBoost/PBLinkResponse.h>
+#import <PartnerBoost/PBLinkReportEvent.h>

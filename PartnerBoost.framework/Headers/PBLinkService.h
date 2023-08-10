@@ -7,13 +7,14 @@
 
 #import <Foundation/Foundation.h>
 #import <PartnerBoost/PBLinkResponse.h>
+#import <PartnerBoost/PBLinkReportEvent.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
 @interface PBLinkService : NSObject
 
 /// 初始化PBLinkService
-+ (void)initWith:(NSString *)appkey idfa:(nullable NSString *)idfa;
++ (void)initWith:(NSString *)appkey idfa:(nullable NSString *)idfa launchOptions:(nonnull NSDictionary *)launchOptions;
 
 /// 根据不同的URL路由到不同的app展示页
 + (BOOL)routePBLink:(NSURL *)url;
@@ -24,7 +25,11 @@ NS_ASSUME_NONNULL_BEGIN
 /// 注册一个通用的获取参数的回调
 + (void)registerHandler:(void(^_Nonnull)(PBLinkResponse *__nullable respone))handler;
 
-+ (void)testPringDeviceInfo;
+/// 报告事件
++ (void)report:(PBLReportEventType)eventType;
+
+/// 报告事件
++ (void)report:(PBLReportEventType)eventType eventValue:(nullable NSDictionary *)eventValue;
 
 @end
 
