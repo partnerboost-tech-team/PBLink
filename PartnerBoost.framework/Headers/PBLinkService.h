@@ -31,6 +31,10 @@ NS_ASSUME_NONNULL_BEGIN
 /// 报告事件
 + (void)report:(PBLReportEventType)eventType eventValue:(nullable NSDictionary *)eventValue;
 
++ (NSString *)getDownloadingLink;
+
++ (NSString *)getAttributionLink;
+
 @end
 
 NS_ASSUME_NONNULL_END
