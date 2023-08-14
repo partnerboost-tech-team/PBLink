@@ -13,6 +13,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface PBLinkService : NSObject
 
+@property (nonatomic, assign) BOOL enableDebugLogging;
+
 /// 初始化PBLinkService
 + (void)initWith:(NSString *)appkey idfa:(nullable NSString *)idfa launchOptions:(nonnull NSDictionary *)launchOptions;
 
