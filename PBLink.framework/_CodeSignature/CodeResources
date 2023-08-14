@@ -18,19 +18,11 @@
 		</data>
 		<key>Headers/PBLinkService.h</key>
 		<data>
-		tQV4jBdtSa0hcTdXdmiRfuaTN4w=
-		</data>
-		<key>Headers/PartnerBoost.h</key>
-		<data>
-		XRHs9wBs0ECSO2q/rCBonpT/fpI=
+		9rWLEkwi9geP4mxxkR1UXlTWVbk=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		FsYLjOiDZhz4YzQioTRFW9i2qws=
-		</data>
-		<key>Modules/module.modulemap</key>
-		<data>
-		tFBAZ5Un7sdqLl9zDUtNmgW8uIw=
+		6BFhN3JZ8T3IcKVI039vvR+Wfl4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -72,33 +64,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tQV4jBdtSa0hcTdXdmiRfuaTN4w=
+			9rWLEkwi9geP4mxxkR1UXlTWVbk=
 			</data>
 			<key>hash2</key>
 			<data>
-			WNybu79hKjJDL8XSQodAKMLmVPLpwSUBV+LbJMI2TYc=
-			</data>
-		</dict>
-		<key>Headers/PartnerBoost.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			XRHs9wBs0ECSO2q/rCBonpT/fpI=
-			</data>
-			<key>hash2</key>
-			<data>
-			7TMQnR+krggOLvM78Js0vCzP/PCWOZrjpXl0P/QiR74=
-			</data>
-		</dict>
-		<key>Modules/module.modulemap</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tFBAZ5Un7sdqLl9zDUtNmgW8uIw=
-			</data>
-			<key>hash2</key>
-			<data>
-			jR8320BOdXtC+FRDhlJ5FOjDlvaXQpZFK3lRRSNaKB8=
+			lwXgtpChgMi/YMWhFgFvi1yHPInDvTtcddqgNM2j/k0=
 			</data>
 		</dict>
 	</dict>

@@ -1,6 +1,0 @@
-framework module PartnerBoost {
-  umbrella header "PartnerBoost.h"
-
-  export *
-  module * { export * }
-}

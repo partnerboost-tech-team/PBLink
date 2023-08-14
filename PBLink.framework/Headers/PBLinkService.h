@@ -6,8 +6,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <PartnerBoost/PBLinkResponse.h>
-#import <PartnerBoost/PBLinkReportEvent.h>
+#import <PBLink/PBLinkResponse.h>
+#import <PBLink/PBLinkReportEvent.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
